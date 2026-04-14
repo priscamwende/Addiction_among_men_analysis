@@ -1,4 +1,4 @@
-# Addiction_among_men_analysis
+# Analyzing Addiction Patterns Among Men: Age, Behavioral Factors, and Key Drivers
 
 ### The Problem Statement
 Addiction especially among menis a growing but often misunderstood social and health issue. Many men experience substance use such as alcohol, drugs and behavioral addictions such as gambling, gaming, etc. However, there are no clear underlying patterns.
