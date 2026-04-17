@@ -13,7 +13,7 @@ Therefore, the project addresses the issue of: unclear clear and provide a  data
 #### Tools to use
  1.  SQL -  to query structured datasets, join multiple tables and aggregating insights using GROUP BY and COUNT functions
 
-2. Matplotlib & Seaborn - to visualize the data trends and patterns.
+2. Matplotlib - to visualize the data trends and patterns.
 
 3. Pandas - to transform and filter the data
 
