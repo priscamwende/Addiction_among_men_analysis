@@ -8,7 +8,7 @@ Therefore, the project addresses the issue of: unclear clear and provide a  data
  This project aims to identify:
 - 	Which age groups are most affected
 - 	Which types of addiction are most common among men
-- 	 hether factors like stress, employment, or demographics influence addiction risk
+- 	 Whether factors like stress, employment, or demographics influence addiction risk
 
 #### Tools to use
  1.  SQL -  to query structured datasets, join multiple tables and aggregating insights using GROUP BY and COUNT functions
